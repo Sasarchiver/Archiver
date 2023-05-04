@@ -1,2 +1,3 @@
 # Archiver
-Listen to music way you want.
+       Welcome to the Rez family.
+      10000s tunes to select from
